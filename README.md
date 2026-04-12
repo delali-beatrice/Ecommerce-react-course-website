@@ -1,16 +1,78 @@
-# React + Vite
+---
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 🛒 E-Commerce Website (React)
 
-Currently, two official plugins are available:
+This is a beginner-friendly e-commerce web application built using **React.js**, inspired by a tutorial from PedroTech.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+The project demonstrates core React concepts such as components, props, state management, and routing while simulating a simple online shopping experience.
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🚀 Features
 
-## Expanding the ESLint configuration
+* 🛍️ Product listing page
+* 🛒 Add to cart functionality
+* ➕ Increase/decrease product quantity
+* 💰 Cart total calculation
+* 🔁 Page routing using React Router
+* ⚛️ Component-based architecture
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🧠 What I Learned
+
+* React fundamentals (components, props, state)
+* Managing global state (e.g., cart)
+* Structuring a scalable React project
+* Basic UI design for e-commerce
+* Debugging and handling user interactions
+
+---
+
+## 🛠️ Tech Stack
+
+* React.js
+* JavaScript (ES6+)
+* CSS / Tailwind (adjust if needed)
+* React Router
+
+---
+
+## 📦 Installation & Setup
+
+```bash
+# Clone the repository
+git clone https://github.com/your-username/your-repo-name.git
+
+# Navigate into the project
+cd your-repo-name
+
+# Install dependencies
+npm install
+
+# Run the development server
+npm start
+```
+
+---
+
+## 🌍 Live Demo
+
+👉 https://ecommerce-react-course-website-coral.vercel.app/
+
+---
+
+## 🙌 Acknowledgements
+
+Special thanks to PedroTech for the beginner-friendly tutorial that guided this project.
+
+---
+
+## 📌 Future Improvements
+
+* User authentication (login/signup)
+* Payment integration
+* Backend (Node.js / Firebase)
+* Product filtering & search
+
+---
