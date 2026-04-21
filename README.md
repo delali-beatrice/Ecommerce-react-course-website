@@ -42,6 +42,7 @@ The project demonstrates core React concepts such as components, props, state ma
 This project uses pnpm instead of npm.
 
 pnpm install
+
 pnpm start
 
 ## 📦 Installation & Setup
