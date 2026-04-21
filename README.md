@@ -33,25 +33,31 @@ The project demonstrates core React concepts such as components, props, state ma
 
 * React.js
 * JavaScript (ES6+)
-* CSS / Tailwind (adjust if needed)
+* CSS 
 * React Router
 
 ---
+
+## Package Manager
+This project uses pnpm instead of npm.
+
+pnpm install
+pnpm start
 
 ## 📦 Installation & Setup
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/delali-beatrice/Ecommerce-react-course-website.git
 
 # Navigate into the project
-cd your-repo-name
+cd Ecommerce-react-course-website
 
 # Install dependencies
-npm install
+pnpm install
 
 # Run the development server
-npm start
+pnpm start
 ```
 
 ---
